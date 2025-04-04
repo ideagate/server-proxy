@@ -1,0 +1,5 @@
+redis:
+  addrs:
+    - "localhost:6379"
+  password: "yourpassword"
+  db: 0
