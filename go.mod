@@ -1,11 +1,11 @@
-module github.com/bayu-aditya/ideagate/backend/server/proxy
+module github.com/ideagate/server-proxy
 
 go 1.23.0
 
 require (
-	github.com/bayu-aditya/ideagate/backend/core v0.0.0-20250108084853-95d1bc89102d
 	github.com/google/uuid v1.6.0
 	github.com/gorilla/websocket v1.5.3
+	github.com/ideagate/core v0.0.0-20250405234934-b97c52ec982f
 	github.com/redis/go-redis/v9 v9.7.0
 	github.com/sirupsen/logrus v1.9.3
 	gopkg.in/yaml.v2 v2.4.0

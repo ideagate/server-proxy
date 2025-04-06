@@ -1,5 +1,3 @@
-github.com/bayu-aditya/ideagate/backend/core v0.0.0-20250108084853-95d1bc89102d h1:NVvUfGCLaQlhLaFm0+ql42xi+QjOYEn/cp+JHNX+Bto=
-github.com/bayu-aditya/ideagate/backend/core v0.0.0-20250108084853-95d1bc89102d/go.mod h1:mt7YUkqE7ionb68vl3/Qj8WUvp8raOGWZhGOwoOACrw=
 github.com/bsm/ginkgo/v2 v2.12.0 h1:Ny8MWAHyOepLGlLKYmXG4IEkioBysk6GpaRTLC8zwWs=
 github.com/bsm/ginkgo/v2 v2.12.0/go.mod h1:SwYbGRRDovPVboqFv0tPTcG1sN61LM1Z4ARdbAV9g4c=
 github.com/bsm/gomega v1.27.10 h1:yeMWxP2pV2fG3FgAODIY8EiRE3dy0aeFYt4l7wh6yKA=
@@ -17,6 +15,8 @@ github.com/google/uuid v1.6.0 h1:NIvaJDMOsjHA8n1jAhLSgzrAzy1Hgr+hNrb57e+94F0=
 github.com/google/uuid v1.6.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
 github.com/gorilla/websocket v1.5.3 h1:saDtZ6Pbx/0u+bgYQ3q96pZgCzfhKXGPqt7kZ72aNNg=
 github.com/gorilla/websocket v1.5.3/go.mod h1:YR8l580nyteQvAITg2hZ9XVh4b55+EU/adAjf1fMHhE=
+github.com/ideagate/core v0.0.0-20250405234934-b97c52ec982f h1:qBzD+diZCrmeMc1iFiAssLJtR4hFJ7BF1gKtwe0p0Q4=
+github.com/ideagate/core v0.0.0-20250405234934-b97c52ec982f/go.mod h1:BMtsNY436ios3Itf6naWavXmTt7RfTzt4HOAU2wymJY=
 github.com/kr/pretty v0.3.1 h1:flRD4NNwYAUpkphVc1HcthR4KEIFJ65n8Mw5qdRn3LE=
 github.com/kr/pretty v0.3.1/go.mod h1:hoEshYVHaxMs3cyo3Yncou5ZscifuDolrwPKZanG3xk=
 github.com/kr/text v0.2.0 h1:5Nx0Ya0ZqY2ygV366QzturHI13Jq95ApcVaJBhpS+AY=

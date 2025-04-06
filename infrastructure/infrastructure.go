@@ -3,7 +3,7 @@ package infrastructure
 import (
 	"context"
 
-	"github.com/bayu-aditya/ideagate/backend/server/proxy/config"
+	"github.com/ideagate/server-proxy/config"
 	"github.com/redis/go-redis/v9"
 )
 

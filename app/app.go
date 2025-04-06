@@ -6,11 +6,11 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/bayu-aditya/ideagate/backend/core/adapter/redis"
-	"github.com/bayu-aditya/ideagate/backend/core/utils/log"
-	"github.com/bayu-aditya/ideagate/backend/server/proxy/config"
-	"github.com/bayu-aditya/ideagate/backend/server/proxy/infrastructure"
-	"github.com/bayu-aditya/ideagate/backend/server/proxy/usecase"
+	"github.com/ideagate/core/adapter/redis"
+	"github.com/ideagate/core/utils/log"
+	"github.com/ideagate/server-proxy/config"
+	"github.com/ideagate/server-proxy/infrastructure"
+	"github.com/ideagate/server-proxy/usecase"
 )
 
 func NewServer(configFileName string) {

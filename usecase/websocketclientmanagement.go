@@ -6,12 +6,12 @@ import (
 	"fmt"
 	"sync"
 
-	entitypubsub "github.com/bayu-aditya/ideagate/backend/core/model/entity/pubsub"
-	entitywebsocket "github.com/bayu-aditya/ideagate/backend/core/model/entity/websocket"
-	"github.com/bayu-aditya/ideagate/backend/core/ports/distributionlock"
-	"github.com/bayu-aditya/ideagate/backend/core/ports/pubsub"
-	"github.com/bayu-aditya/ideagate/backend/core/utils/log"
 	"github.com/gorilla/websocket"
+	entitypubsub "github.com/ideagate/core/model/entity/pubsub"
+	entitywebsocket "github.com/ideagate/core/model/entity/websocket"
+	"github.com/ideagate/core/ports/distributionlock"
+	"github.com/ideagate/core/ports/pubsub"
+	"github.com/ideagate/core/utils/log"
 	"github.com/sirupsen/logrus"
 )
 
